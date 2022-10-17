@@ -386,7 +386,24 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":8.5,
+                 "id":28,
+                 "name":"collide",
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":137,
+                 "x":340,
+                 "y":662
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -487,7 +504,7 @@
          "y":0
         }],
  "nextlayerid":92,
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
