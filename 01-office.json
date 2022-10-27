@@ -147,7 +147,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{urltvCuisine}}}"
+                         "value":"{{{tvCuisine}}}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -485,7 +485,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":230,
@@ -519,7 +519,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":209.333333333333,
@@ -542,7 +542,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":762,
@@ -565,7 +565,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":491.333333333333,
@@ -588,7 +588,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":727.333333333333,
