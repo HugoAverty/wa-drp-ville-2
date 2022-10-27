@@ -492,14 +492,9 @@
                          "value":"door_closed"
                         }, 
                         {
-                         "name":"code",
-                         "type":"string",
-                         "value":"41816"
-                        }, 
-                        {
                          "name":"default",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"door",
