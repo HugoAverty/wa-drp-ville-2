@@ -232,7 +232,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{computer}}}"
+                         "value":"{{{computer2}}}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
